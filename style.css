@@ -1,0 +1,22 @@
+.abc {
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 300;
+    font-style: italic;
+}
+.abc1 {
+    text-decoration: line-through;
+}
+.abc2 {
+    text-transform: uppercase;
+}
+.abc3 {
+    word-spacing: 30px;
+    text-decoration: overline wavy;
+    text-shadow: 1px 1px 1px #c271c6;
+}
+.abc4 {
+    letter-spacing: 5px;
+    text-decoration: underline double;
+}
